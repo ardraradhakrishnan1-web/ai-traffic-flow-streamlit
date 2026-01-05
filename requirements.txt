@@ -4,6 +4,3 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-git add .
-git commit -m "Add requirements.txt"
-git push
